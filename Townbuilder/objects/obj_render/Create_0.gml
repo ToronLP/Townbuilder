@@ -12,7 +12,7 @@ for (var tX = 0; tX < MAP_W; tX++){
 		//Format: [Sprite, Z]
 		var thisTile = [-1, 0];
 		thisTile[TILE.SPRITE] = tileMapData;
-		thisTile[TILE.Z] = 0;//irandom(3);
+		thisTile[TILE.Z] = 0; //irandom(3);
 		global.theMap[# tX, tY] = thisTile;
 	}
 }

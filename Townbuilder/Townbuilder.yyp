@@ -39,8 +39,10 @@
     {"id":{"name":"tile_tiles","path":"tilesets/tile_tiles/tile_tiles.yy",},},
     {"id":{"name":"spr_tiles","path":"sprites/spr_tiles/spr_tiles.yy",},},
     {"id":{"name":"scr_tiletoscreenX","path":"scripts/scr_tiletoscreenX/scr_tiletoscreenX.yy",},},
+    {"id":{"name":"scr_screentotileY","path":"scripts/scr_screentotileY/scr_screentotileY.yy",},},
     {"id":{"name":"obj_render","path":"objects/obj_render/obj_render.yy",},},
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},},
+    {"id":{"name":"scr_screentotileX","path":"scripts/scr_screentotileX/scr_screentotileX.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "RoomOrderNodes": [
