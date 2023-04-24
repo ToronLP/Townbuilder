@@ -17,9 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"tile_building","order":1,"path":"tilesets/tile_building/tile_building.yy",},
     {"name":"spr_Static","order":1,"path":"sprites/spr_Static/spr_Static.yy",},
     {"name":"scr_tiletoscreenY","order":2,"path":"scripts/scr_tiletoscreenY/scr_tiletoscreenY.yy",},
+    {"name":"spr_building_tiles","order":5,"path":"sprites/spr_building_tiles/spr_building_tiles.yy",},
     {"name":"spr_tiles","order":2,"path":"sprites/spr_tiles/spr_tiles.yy",},
+    {"name":"spr_building","order":3,"path":"sprites/spr_building/spr_building.yy",},
+    {"name":"spr_test","order":4,"path":"sprites/spr_test/spr_test.yy",},
     {"name":"scr_tiletoscreenX","order":1,"path":"scripts/scr_tiletoscreenX/scr_tiletoscreenX.yy",},
     {"name":"scr_screentotileY","order":3,"path":"scripts/scr_screentotileY/scr_screentotileY.yy",},
     {"name":"scr_screentotileX","order":4,"path":"scripts/scr_screentotileX/scr_screentotileX.yy",},
